@@ -41,6 +41,12 @@
 	--cor3: #F66429;
 	--cor4: #E7283A;
 	--cor5: #233D8C;
+	--cor6:#34A4FF;
+	--cor7:#37CC7B;
+	--cor8:#F74A05;
+	--cor9:#EB8A2A;
+	--cor10:#E6E34C;
+	--cor11:#7C72FA;
 	--fonte-padrão:Arial,Verdana, Helvetica, sans-serif;
 	--fonte-destaque: 'Bebas Neue', cursiva;
 	--fonte-android:'Andoid', 'cursiva';
@@ -87,7 +93,7 @@ main a:hover{
 
 header{
 
-	background-color:#18865f;
+	background-color:var(--cor7);
 	background-size:100% 190px;
 	min-height: 150px;
 	text-align: center;
