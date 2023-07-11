@@ -82,13 +82,13 @@ main strong{
 main a{	
 	text-decoration:none;
 	font-weight: bold;
-	color: #FFE900;
+	color: #7C72FA;
 	padding: 2px 6px;
 
 }
 main a:hover{
 	text-decoration:underline;
-	color:#558BC2;
+	color:#F74A05;
 }
 
 header{
