@@ -1,5 +1,7 @@
 <h1>
- Site-do-Dragon-Ball🌍
+<img align="center" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZW6exkCTU4ceEa7FTGLaYtrmii9AmersSSg&usqp=CAU"></a>
+ 
+ Site-do-Dragon-Ball
 </h1>
  Site Dragon Ball Classico
  
