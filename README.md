@@ -11,6 +11,6 @@
 Aprender a ultilizar html e css no desenvolvimento de paginas web.
  
  ## Tecnologias⚙
- ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=#EB8D5C)
- ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=#EB8D5C)
+ ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=EB8D5C)
+ ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=EB8D5C)
 
